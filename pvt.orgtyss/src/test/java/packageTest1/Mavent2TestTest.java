@@ -7,4 +7,12 @@ public class Mavent2TestTest {
   
  public void sale() {
   }
+  
+  private void syso() {
+	System.out.println("github");
+
+}
+  
+  
+  
 }
