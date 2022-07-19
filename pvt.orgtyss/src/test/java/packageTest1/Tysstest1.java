@@ -7,7 +7,7 @@ public class Tysstest1 {
 	@Test
 	public void TestMavenTest() {
 		//get url
-		String url = System.getProperty("URL");
+		String url = System.getProperty("URL");//enter url
 		
 		String browser = System.getProperty("BROWER");
 		String username = System.getProperty("USERNAME");
