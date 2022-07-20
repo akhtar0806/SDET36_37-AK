@@ -10,7 +10,7 @@ public class Tysstest1 {
 		String url = System.getProperty("URL");//enter url
 		
 		String browser = System.getProperty("BROWER");
-		String username = System.getProperty("USERNAME");//enter user name
+		String username = System.getProperty("USERNAME");//enter username
 		String password = System.getProperty("PASSWORD");
 		System.out.println("URL"+url);
 		System.out.println("BROWSER"+browser);
