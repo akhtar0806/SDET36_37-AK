@@ -8,9 +8,16 @@ public class Mavent2TestTest {
  public void sale() {
   }
   
-  private void syso() {
+  private void s2() {
 	System.out.println("github");
 
+{
+	System.out.println("hello all");
+}
+	
+	
+	
+	
 }
   
   
