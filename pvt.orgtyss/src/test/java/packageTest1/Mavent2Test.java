@@ -8,7 +8,7 @@ public class Mavent2Test {
 	
 	public void testmaven()
 	{
-	System.out.println("fist test passed");
+	System.out.println("fist test passed");  //first case passed
 	}
 @Test
 	public void test()
